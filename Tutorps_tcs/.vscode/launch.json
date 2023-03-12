@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cipher",
+            "request": "launch",
+            "mainClass": "Cipher",
+            "projectName": "Tutorps_tcs_568fb874"
+        },
+        {
+            "type": "java",
+            "name": "Launch Encode",
+            "request": "launch",
+            "mainClass": "Encode",
+            "projectName": "Tutorps_tcs_568fb874"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindLoop",
+            "request": "launch",
+            "mainClass": "FindLoop",
+            "projectName": "Tutorps_tcs_568fb874"
+        },
+        {
+            "type": "java",
+            "name": "Launch FourSum",
+            "request": "launch",
+            "mainClass": "FourSum",
+            "projectName": "Tutorps_tcs_568fb874"
+        },
+        {
+            "type": "java",
+            "name": "Launch RearrangeLinkedList",
+            "request": "launch",
+            "mainClass": "RearrangeLinkedList",
+            "projectName": "Tutorps_tcs_568fb874"
+        },
+        {
+            "type": "java",
+            "name": "Launch SameBinaryTree",
+            "request": "launch",
+            "mainClass": "SameBinaryTree",
+            "projectName": "Tutorps_tcs_568fb874"
+        },
+        {
+            "type": "java",
+            "name": "Launch TCS_RunLengthEncoding",
+            "request": "launch",
+            "mainClass": "TCS_RunLengthEncoding",
+            "projectName": "Tutorps_tcs_568fb874"
+        }
+    ]
+}
